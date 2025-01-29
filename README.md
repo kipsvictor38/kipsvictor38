@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kipsvictor38
-- 👀 I’m interested in cyber security projects,like exploits
+- 👀 I’m interested in cyber security projects,
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on various projects with you guys
 - 📫 Reach me through kipsvictor38@gmail.com or a Whatsapp number+254717544592
